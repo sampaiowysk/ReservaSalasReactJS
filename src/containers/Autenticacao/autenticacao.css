@@ -1,0 +1,21 @@
+.containerAutenticacao {
+    width: 60vw;
+    height: 50vh;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.containerBotao {
+    width: 15vw;
+    margin: auto;
+}
+
+.containerConteudo {
+    padding: 20px 40px 30px 40px;
+    text-align: center;
+}

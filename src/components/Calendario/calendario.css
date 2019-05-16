@@ -1,0 +1,14 @@
+.containerCalendario {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 47vw;
+    float: left;
+}
+
+.containerSala {
+    padding: 20px;
+}
+
+.containerBigCalendar {
+    padding: 20px;
+    height: 115vh
+}

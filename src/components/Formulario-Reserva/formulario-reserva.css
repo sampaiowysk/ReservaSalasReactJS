@@ -1,0 +1,43 @@
+.container {
+    padding: 10px 40px 0px 40px;
+    margin-bottom: 10px;
+    max-height: calc(115vh+160px);
+}
+
+.containerBotao {
+    padding: 20px 0px 10px 0px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.tituloFormulario {
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+
+.titulo {
+    margin: 20px 0px 0px 0px;
+}
+
+.botaoDeletar {
+    background-color: red;
+}
+
+.iconeFechar {
+    position: relative;
+    top: 10px;
+    left: 98%;
+    cursor: pointer;
+}
+
+.containerRadio {
+    padding: 0px 0px 15px 5px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.containerRadioTitulo {
+    padding-top: 20px;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
